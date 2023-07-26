@@ -51,6 +51,7 @@ function addCityToDOM(id, city, description, image) {
       </div>
   </a>`;
 
+
   document.getElementById("data").append(landingElem);
 
 }
